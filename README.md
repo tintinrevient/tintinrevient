@@ -1,4 +1,4 @@
-## hi there! 👋
+## hi there! 🎈
 
 i'm Shu, an AI generalist passionate about open source and exploring the intersection of technology and design.
 
