@@ -6,7 +6,7 @@ i'm Shu, an AI generalist passionate about open source and exploring the interse
 
 i'm currently working on **[ProteinGym](https://github.com/ProteinGym)** - an open source benchmarking platform for evaluating machine learning models for proteins. this project is a combination of computational biology and machine learning applications in protein engineering, with [proteingym-base](https://github.com/ProteinGym/proteingym-base) to process data and models and [proteingym-benchmark](https://github.com/ProteinGym/proteingym-benchmark) to benchmark selected data and models.
 
-### ♥️ open source stuff
+### 😻 open source stuff
 
 here are some projects i've worked on in the past:
 
