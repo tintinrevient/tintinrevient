@@ -15,7 +15,7 @@ here are some projects i've worked on in the past:
 - **tech stack**: SvelteKit, D3.js, TypeScript, Tailwind CSS.
 
 #### [mycorrhizal network](https://github.com/tintinrevient/mycorrhizal-network)
-- a distributed network traffic analysis system that captures, traces, and visualizes network topology patterns using graph-based visualization, inspired by the last of us. 
+- a distributed network traffic analysis system that captures, traces, and [visualizes network topology](https://tintinrevient.github.io/mycorrhizal-network/) patterns using graph-based visualization, inspired by "the last of us". 
 - **tech stack**: Apache Kafka, ksqlDB, Kubernetes, Helm, Neo4j, Scapy, Neovis.
 
 #### [NOT doing excel](https://github.com/tintinrevient/not-doing-excel)
