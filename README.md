@@ -28,4 +28,4 @@ here are some projects i've worked on in the past:
 
 ---
 
-*This README is a living document and will be updated as I work on new projects.*
+![](puppies.gif)
