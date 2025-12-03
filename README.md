@@ -26,6 +26,4 @@ here are some projects i've worked on in the past:
 - a computer vision research project analyzing human poses and body contours in classical and modern artwork using pose estimation and body segmentation techniques. 
 - **tech stack**: OpenPose, DensePose, COCO Dataset, AdaIN Style Transfer.
 
----
-
 ![](puppies.gif)
