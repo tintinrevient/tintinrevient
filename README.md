@@ -10,7 +10,7 @@ i'm currently working on **[ProteinGym](https://github.com/ProteinGym)** - an op
 
 here are some projects i've worked on in the past:
 
-#### [color wheel](https://github.com/tintinrevient/color-wheel)
+#### [color wheel](https://tintinrevient.github.io/a-very-draft-demo/)
 - an interactive data visualization project exploring color theory and design principles.
 - **tech stack**: SvelteKit, D3.js, TypeScript, Tailwind CSS.
 
