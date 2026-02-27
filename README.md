@@ -10,9 +10,9 @@ i'm currently working on **[ProteinGym](https://github.com/ProteinGym)** - an op
 
 here are some projects i've worked on in the past:
 
-#### [color wheel](https://tintinrevient.github.io/a-very-draft-demo/)
-- an interactive data visualization project exploring color theory and design principles.
-- **tech stack**: SvelteKit, D3.js, TypeScript, Tailwind CSS.
+#### [nederland kringloopwinkels](https://tintinrevient.github.io/utrecht-thriftstore/)
+- an interactive data visualization project listing kringloopwinkels in the netherlands.
+- **tech stack**: SvelteKit, TypeScript, Tailwind CSS, MapLibre GL JS, deck.gl.
 
 #### [mycorrhizal network](https://github.com/tintinrevient/mycorrhizal-network)
 - a distributed network traffic analysis system that captures, traces, and [visualizes network topology](https://tintinrevient.github.io/mycorrhizal-network/) patterns using graph-based visualization, inspired by "the last of us". 
