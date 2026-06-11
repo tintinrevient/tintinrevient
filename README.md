@@ -10,6 +10,10 @@ i'm currently working on **[ProteinGym](https://github.com/ProteinGym)** - an op
 
 here are some projects i've worked on in the past:
 
+#### [reverse engineer an old database](https://github.com/tintinrevient/data-lineage-agent-example)
+- an MCP server based tool to reverse engineer an old and chunky database.
+- **tech stack**: MCP, dbt, [Docglow](https://github.com/docglow/docglow), Claude Code.
+
 #### [colours](https://colors.shushi.me/) 🎨
 - an interactive colour sotry that I constantly go back to in order to sharpen my eyes and refresh my words about colors.
 - **tech stack**: SvelteKit, TypeScript, Tailwind CSS.
